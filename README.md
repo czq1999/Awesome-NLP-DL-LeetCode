@@ -4,7 +4,7 @@
 # 宝藏资源收藏分享
 
 本文整理了我目前觉得还算不错的GitHub资源，分为**NLP**、**深度学习**和**基本知识**
-感觉不错的可以star哦
+感觉不错的可以**star**哦
 
 ## NLP
 
@@ -66,3 +66,4 @@
 + Fucking algorithm（labuladong）：
   + GitHub: [labuladong/fucking-algorithm: 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. (github.com)](https://github.com/labuladong/fucking-algorithm)
   + **book链接**：https://labuladong.gitee.io/algo
+## 持续更新中~~~
